@@ -22,7 +22,6 @@ export default function RootLayout({
           <Link className=' ml-12 font-semibold' href="/">NotesToMyself</Link>
         </div>
         {children}
-
       </body>
     </html>
   )
